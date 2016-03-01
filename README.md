@@ -10,7 +10,7 @@ This is a docker image for [facebook's mcrouter](https://github.com/facebook/mcr
 
 # Supported tags and respective `Dockerfile` links
 
--	[`v0.19.0`, `latest` (*v0.19.0/Dockerfile*)](https://github.com/StudioSol/docker-mcrouter/tree/v0.19.0)
+-	[`v0.19.0`, `latest` (*v0.19.0/Dockerfile*)](https://github.com/StudioSol/docker-mcrouter/tree/0.19.0)
 
 
 # Mcrouter
